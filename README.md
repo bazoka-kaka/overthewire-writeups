@@ -1,6 +1,6 @@
 # Overthewire
 
-- [ ] Bandit (0/34)
+- [ ] Bandit (1/34)
 - [ ] Natas
 - [ ] Leviathan
 - [ ] Krypton
